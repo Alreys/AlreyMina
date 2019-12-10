@@ -25,6 +25,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -115,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575967585591</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="编辑README">
+      <created>1575968238895</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575968238895</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -137,10 +145,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="420" y="243" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1440.900@0.0.1440.900" timestamp="1575960819835" />
-    <state x="344" y="52" key="CommitChangelistDialog2" timestamp="1575967585217">
+    <state x="344" y="52" key="CommitChangelistDialog2" timestamp="1575968238772">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="344" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1575967585217" />
+    <state x="344" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1575968238772" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1575964499288">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -177,10 +185,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="345" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1575965349305" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1575967588687">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1575968240720">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1575967588687" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1575968240720" />
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575968531690">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1575968531690" />
     <state x="378" y="93" width="683" height="714" key="find.popup" timestamp="1575947649166">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

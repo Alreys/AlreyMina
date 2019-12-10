@@ -11,13 +11,13 @@
   >&nbsp;&nbsp;|--libs  
   >&nbsp;&nbsp;|--other  
 
-代码都位于xxl包下。
-依赖位于libs包下。
-config包是mina的配置信息，如心跳时间间隔、ip地址，各种监听器的设置等等。
-inter包中的是各种监听器的接口和空实现。
-mina包为核心包，负责管理mina的创建、链接、监控、心跳机制的实现、数据重发机制的实现等等功能。
-utils包中为一些工具类，如格式转换、字符过滤器等等。
-other包是本项目的jar版本。
+代码都位于xxl包下。  
+依赖位于libs包下。  
+config包是mina的配置信息，如心跳时间间隔、ip地址，各种监听器的设置等等。  
+inter包中的是各种监听器的接口和空实现。  
+mina包为核心包，负责管理mina的创建、链接、监控、心跳机制的实现、数据重发机制的实现等等功能。  
+utils包中为一些工具类，如格式转换、字符过滤器等等。  
+other包是本项目的jar版本。  
   
 ### 使用方法
 添加依赖
@@ -25,6 +25,19 @@ other包是本项目的jar版本。
 
 调用示例
 ```
+import com.alibaba.fastjson.JSON;
+import com.oracle.tools.packager.Log;
+import com.smart.xxl.config.Config;
+import com.smart.xxl.inter.ConnectListener;
+import com.smart.xxl.inter.KeepAliveListener;
+import com.smart.xxl.inter.ReceiveListener;
+import com.smart.xxl.mina.ConnectManager;
+import org.apache.mina.core.buffer.IoBuffer;
+import org.apache.mina.core.session.IoSession;
+import org.apache.mina.filter.keepalive.KeepAliveFilter;
+import java.util.HashMap;
+import java.util.Map;
+
 public static void main(String[] args) {
         Config config = Config.newInstance();
         config.setIp("192.168.43.192");//设置服务器ip
