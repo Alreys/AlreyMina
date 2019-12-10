@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Android_Mina.iml" filepath="$PROJECT_DIR$/Android_Mina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mina.iml" filepath="$PROJECT_DIR$/mina.iml" />
     </modules>
   </component>
 </project>
