@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="mina" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d6d613b-5956-4cc6-baaf-e864976bb395" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="22" />
+    <option name="width" value="1680" />
+    <option name="height" value="1028" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553071388521" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/smart/xxl/libs" />
+      <recent name="$PROJECT_DIR$/src/com/smart/xxl/mina" />
+      <recent name="$PROJECT_DIR$/src/com/smart/xxl/utils" />
+      <recent name="$PROJECT_DIR$/src/com/smart/xxl" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.smart.xxl.Main" />
+      <module name="Android_Mina" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d6d613b-5956-4cc6-baaf-e864976bb395" name="Default Changelist" comment="" />
+      <created>1551413881550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551413881550</updated>
+      <workItem from="1551413886748" duration="6059000" />
+      <workItem from="1551666428306" duration="7632000" />
+      <workItem from="1551746596195" duration="393000" />
+      <workItem from="1551851751529" duration="3976000" />
+      <workItem from="1551868507554" duration="833000" />
+      <workItem from="1553065504823" duration="84000" />
+      <workItem from="1553065856021" duration="5000" />
+      <workItem from="1553066200896" duration="3407000" />
+      <workItem from="1556282696559" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22443000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1575950119316">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1575950119316" />
+    <state x="420" y="243" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1575960819835">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="420" y="243" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1440.900@0.0.1440.900" timestamp="1575960819835" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1575953466503">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575953466503" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1575953466501">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1575953466501" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1575953466498">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1575953466498" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1575953466502">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1575953466502" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1575953174483">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575953174483" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1575953174482">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1575953174482" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1575953174481">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1575953174481" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1575953174482">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1575953174482" />
+    <state x="345" y="63" key="SettingsEditor" timestamp="1575960825689">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="345" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1575960825689" />
+    <state x="378" y="93" width="683" height="714" key="find.popup" timestamp="1575947649166">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="93" width="683" height="714" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1575947649166" />
+    <state x="97" y="154" key="new project wizard" timestamp="1575959708496">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="97" y="154" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1575959708496" />
+    <state x="450" y="383" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1575945144767">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="450" y="369" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1440.900@0.0.1440.900" timestamp="1575945018434" />
+    <state x="450" y="383" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.877@0.23.1440.877" timestamp="1575945144767" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/smart/xxl/mina/MinaClientHandler.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/smart/xxl/mina/SendManager.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/smart/xxl/mina/SendManager.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

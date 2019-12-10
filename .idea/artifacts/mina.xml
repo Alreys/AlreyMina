@@ -1,0 +1,52 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mina">
+    <output-path>$PROJECT_DIR$/out/artifacts/mina</output-path>
+    <root id="archive" name="mina.jar">
+      <element id="directory" name="com">
+        <element id="directory" name="smart">
+          <element id="directory" name="xxl">
+            <element id="directory" name="config">
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/config/Config.class" />
+            </element>
+            <element id="directory" name="inter">
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/inter/ConnectListener.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/inter/ConnectListenerImpl.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/inter/KeepAliveListener.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/inter/KeepAliveListenerImpl.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/inter/ReceiveListener.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/inter/ReceiverListenerImpl.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/inter/ReConnectListener.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/inter/ReConnectListenerImpl.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/inter/RetransmissionListener.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/inter/RetransmissionListenerImpl.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/inter/SendListener.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/inter/SendListenerImpl.class" />
+            </element>
+            <element id="directory" name="mina">
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/mina/ConnectManager.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/mina/MinaClientHandler.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/mina/MinaKeepAliveFilter.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/mina/MinaKeepAliveRequestTimeoutHandler.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/mina/SendManager.class" />
+            </element>
+            <element id="directory" name="utils">
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/utils/ByteArrayCodecFactory.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/utils/ByteArrayCodecFactory$ByteArrayDecoder.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/utils/ByteArrayCodecFactory$ByteArrayEncoder.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/utils/ConvertFactory.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/utils/TextLineCodecFactory.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/utils/TextLineCodecFactory$1.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/Android_Mina/com/smart/xxl/utils/TextLineCodecFactory$2.class" />
+            </element>
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="libs">
+        <element id="library" level="project" name="fastjson-1.1.52.android" />
+        <element id="library" level="project" name="mina-core-2.0.16" />
+        <element id="library" level="project" name="slf4j-api-1.7.21" />
+        <element id="library" level="project" name="slf4j-simple-1.7.5" />
+      </element>
+    </root>
+  </artifact>
+</component>
