@@ -7,11 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d6d613b-5956-4cc6-baaf-e864976bb395" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Android_Mina.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mina.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/mina/mina.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,18 +44,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553071388521" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/other" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/other" />
       <recent name="$PROJECT_DIR$/src/com/smart/xxl/libs" />
       <recent name="$PROJECT_DIR$/src/com/smart/xxl/mina" />
       <recent name="$PROJECT_DIR$/src/com/smart/xxl/utils" />
       <recent name="$PROJECT_DIR$/src/com/smart/xxl" />
-      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunManager">
@@ -110,6 +108,14 @@
       <workItem from="1553066200896" duration="3407000" />
       <workItem from="1556282696559" duration="54000" />
     </task>
+    <task id="LOCAL-00001" summary="编辑README">
+      <created>1575967585591</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575967585591</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -117,6 +123,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="编辑README" />
+    <option name="LAST_COMMIT_MESSAGE" value="编辑README" />
   </component>
   <component name="WindowStateProjectService">
     <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1575950119316">
@@ -127,22 +137,26 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="420" y="243" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1440.900@0.0.1440.900" timestamp="1575960819835" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1575953466503">
+    <state x="344" y="52" key="CommitChangelistDialog2" timestamp="1575967585217">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575953466503" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1575953466501">
+    <state x="344" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1575967585217" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1575964499288">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1575953466501" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1575953466498">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575964499288" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1575964499287">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1575953466498" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1575953466502">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1575964499287" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1575964499287">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1575953466502" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1575964499287" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1575964499288">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1575964499288" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1575953174483">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -159,10 +173,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1575953174482" />
-    <state x="345" y="63" key="SettingsEditor" timestamp="1575960825689">
+    <state x="345" y="63" key="SettingsEditor" timestamp="1575965349305">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="345" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1575960825689" />
+    <state x="345" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1575965349305" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1575967588687">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1575967588687" />
     <state x="378" y="93" width="683" height="714" key="find.popup" timestamp="1575947649166">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
