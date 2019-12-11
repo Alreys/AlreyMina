@@ -18,7 +18,7 @@ public class Main {
 
     public static void main(String[] args) {
         Config config = Config.newInstance();
-        config.setIp("192.168.43.192");
+        config.setIp("10.223.203.209");
         config.setPort(8080);
         config.setHeartRequest("0x11");
         config.setHeartResponse("0x12");
@@ -93,6 +93,8 @@ public class Main {
                     }catch (InterruptedException e){
                         e.printStackTrace();
                     }
+                    if (i % 10 == 0 && i >= 10) connectManager.close();
+                    if (i % 20 == 0 && i >= 20) connectManager.connect();
                 }
             }
         }.start();

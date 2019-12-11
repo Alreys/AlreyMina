@@ -19,6 +19,7 @@ public class ConnectManager {
     private KeepAliveFilter keepAliveFilter = null;
     public volatile IoSession ioSession;
     private Thread resend;
+    public boolean closemark = false;//true表示主动断开链接
 
     private ConnectManager() {
     }
@@ -46,7 +47,6 @@ public class ConnectManager {
      * 连接初始化
      */
     private boolean initConnect() {
-
         if (nioSocketConnector == null) {
             nioSocketConnector = new NioSocketConnector();
         } else {
@@ -102,13 +102,28 @@ public class ConnectManager {
     }
 
     /**
+     * 关闭链接
+     * */
+    public void close(){
+        if (isconnect){
+            ioSession.closeNow();
+            ioSession = null;
+            isconnect = false;
+            closemark = true;
+            resend.stop();
+            resend = null;
+        }
+    }
+
+    /**
      * 连接
      */
     public boolean connect() {
         isconnect = false;
-        while (!isconnect) {
+        closemark = false;
+        while (!isconnect && !closemark) {
             try {
-                System.out.println("开始连接。。。");
+                System.out.println("开始连接...");
                 initConnect();
                 Thread.sleep(config.getReconnectFrequency());
             } catch (Exception e) {

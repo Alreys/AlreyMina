@@ -10,12 +10,11 @@ public class SendManager implements Runnable{
      * 管理mina的数据重发
      */
     private Config config = Config.newInstance();
-    private LinkedBlockingQueue send_queue = new LinkedBlockingQueue(100);//数据待发送队列
+    private static LinkedBlockingQueue send_queue = new LinkedBlockingQueue(100);//数据待发送队列
     private static volatile SendManager sendManager;
     private ConnectManager connectManager = ConnectManager.newInstance();
 
     private SendManager(){
-
     }
 
     public static SendManager newInstance(){
@@ -26,6 +25,8 @@ public class SendManager implements Runnable{
                 }
             }
         }
+        send_queue.clear();
+
         return sendManager;
     }
 

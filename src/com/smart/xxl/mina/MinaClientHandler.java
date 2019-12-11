@@ -41,7 +41,7 @@ public class MinaClientHandler implements IoHandler {
 		if (config.getConnectListener() != null){
 			config.getConnectListener().DisConnect(arg0);
 		}
-		if (config.isreconnect()){
+		if (config.isreconnect() && !ConnectManager.newInstance().closemark){
 			ConnectManager.newInstance().connect();
 		}
 	}

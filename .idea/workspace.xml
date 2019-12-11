@@ -6,9 +6,12 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d6d613b-5956-4cc6-baaf-e864976bb395" name="Default Changelist" comment="">
+    <list default="true" id="2d6d613b-5956-4cc6-baaf-e864976bb395" name="Default Changelist" comment="编辑README">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/smart/xxl/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/smart/xxl/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/smart/xxl/mina/ConnectManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/smart/xxl/mina/ConnectManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/smart/xxl/mina/MinaClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/smart/xxl/mina/MinaClientHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/smart/xxl/mina/SendManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/smart/xxl/mina/SendManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1575968238895</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="编辑README">
+      <created>1575968656245</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575968656245</updated>
+    </task>
+    <task id="LOCAL-00004" summary="编辑README">
+      <created>1575968707088</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575968707088</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -145,50 +162,54 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="420" y="243" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1440.900@0.0.1440.900" timestamp="1575960819835" />
-    <state x="344" y="52" key="CommitChangelistDialog2" timestamp="1575968238772">
+    <state x="344" y="52" key="CommitChangelistDialog2" timestamp="1575968706983">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="344" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1575968238772" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1575964499288">
+    <state x="344" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1575968706983" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1576029518132">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575964499288" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1575964499287">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576029518132" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1576027550799" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1576029518131">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1575964499287" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1575964499287">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576029518131" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1576027550797" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1576029518130">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1575964499287" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1575964499288">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576029518130" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1576027550796" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1576029518131">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1575964499288" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1575953174483">
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576029518131" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1576027550798" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1576029218314">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575953174483" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1575953174482">
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576029218314" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1576029218314">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1575953174482" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1575953174481">
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1576029218314" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1576029218313">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1575953174481" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1575953174482">
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1576029218313" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1576029218314">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1575953174482" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1576029218314" />
     <state x="345" y="63" key="SettingsEditor" timestamp="1575965349305">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="345" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1575965349305" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1575968240720">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1575968713319">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1575968240720" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1575968713319" />
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575968531690">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -210,20 +231,21 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/smart/xxl/mina/MinaClientHandler.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="1" />
+          <line>39</line>
+          <properties class="com.smart.xxl.mina.MinaClientHandler" method="sessionClosed">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/smart/xxl/mina/SendManager.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/smart/xxl/mina/SendManager.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="8" />
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/smart/xxl/mina/ConnectManager.java</url>
+          <line>120</line>
+          <properties class="com.smart.xxl.mina.ConnectManager" method="connect">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
